@@ -38,6 +38,7 @@ namespace Reactor
             _gameObject.AddComponent<Coroutines.Component>();
 
             Harmony.PatchAll();
+            FreeNamePatch.Initialize();
             ReactorVersionShower.Initialize();
             SplashSkip.Initialize();
             DefaultBundle.Load();
