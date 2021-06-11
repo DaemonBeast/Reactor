@@ -1,3 +1,5 @@
+> Official repository is currently up-to-date. I advise that you use the [official Reactor](https://github.com/NuclearPowered/Reactor).
+
 # Reactor
 
 [![CI](https://github.com/NuclearPowered/Reactor/workflows/CI/badge.svg)](https://github.com/NuclearPowered/Reactor/actions)
